@@ -1,2 +1,3 @@
 # SliceBot
-Detect SQL injection attacks using Electra Transformer.
+Introducing a bot which can detect SQL Injection Attacks by leveraging Language Transformers
+
